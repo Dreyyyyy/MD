@@ -1,1 +1,1 @@
-# MD
+# Trabalho sobre grafos de Matemática Discreta.
